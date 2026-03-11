@@ -7,15 +7,15 @@ The project demonstrates how to use a webcam to apply filters, detect faces, and
 
 ## 📌 Features
 
-* 🧍 Body Pose Tracking
-* 😀 Face Mesh Detection (468 face landmarks)
-* 🎥 Live Webcam Filters
-* 🌫 Blur Effect
-* ⚡ Edge Detection
-* 🌡 Thermal Camera Simulation
-* 🎨 Heatmap Visualization
-* 🔍 Zoom Camera Effect
-* 📝 Live Text Overlay
+*  Body Pose Tracking
+*  Face Mesh Detection (468 face landmarks)
+*  Live Webcam Filters
+*  Blur Effect
+*  Edge Detection
+*  Thermal Camera Simulation
+*  Heatmap Visualization
+*  Zoom Camera Effect
+*  Live Text Overlay
 
 All programs run **in real-time using your webcam**.
 
